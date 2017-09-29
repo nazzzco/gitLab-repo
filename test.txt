@@ -3,3 +3,7 @@ New line here..
 My first commit
 Dots here...
 Update with Tortoise..
+
+Updating with Bash..
+Update with Tortoise..
+
